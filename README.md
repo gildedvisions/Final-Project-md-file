@@ -17,7 +17,7 @@ People come registe with the application and become users. After a user has been
       - if the casue of death is covid or covid related then the user is are directed to a second form that will guide them into entering infomation about their covid experience. this will be where i gather my covid related data from. Besdies covid our county was plagued with count less other problems like lack of medical attention, oxygen shortage, balck fungues deaths. After this the post is created and displyed on the main landing page. No covid related informatin is ever shown or displayed on the site.
       - if the cause of death is not covid related the post will be created and displyed on the main landing page. 
 3. any other user that enters the site can now interact with each post/orbituary that is created by offering them upto 4 emojies or enter into the the individual posts page and further offer pray's on the deseased's prayer wall. 
-4. There is also a search feature where a user can look up for a post/orbituary using any key words mentioned in the deceased's name, loaction or orbituary text.
+4. There is also a search feature where a user can look up for a post/orbituary using any key words mentioned in the deceased's name, location or orbituary text.
 5. A side pannel is created that will house the names of the deseased whos death anniversary falls within that current month in a way giving remeberance to thems so they are not forgotten.
 
 
